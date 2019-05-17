@@ -14,11 +14,11 @@ class Party(object):
 			print (line)
 			
 candy_cando = Party(["Candy can do it",
-				     "I don't know how far I can sing",
-				     "So I guess I should stop here"])
+		     "I don't know how far I can sing",
+		     "So I guess I should stop here"])
 				  
 fireworks_beautiful = Party(["The entire family waching them",
-						     "With pockets full of shells"])
+			     "With pockets full of shells"])
 
 candy_cando.sing_me_a_song()
 fireworks_beautiful.sing_me_a_song() 
